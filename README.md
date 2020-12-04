@@ -3,6 +3,9 @@ A drop in replacement for the Rails data-confirm dialog using Tailwind CSS. Expo
 
 Your app must be using Tailwind CSS.
 
+![Example](https://i.imgur.com/ojLXuSz.png)
+
+
 ## Options
 `data-confirm` The title for the modal. Required.
 
